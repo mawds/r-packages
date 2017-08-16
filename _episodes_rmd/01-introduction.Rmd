@@ -12,3 +12,12 @@ keypoints:
 
 This will be a lesson on writing packages for R
 
+Ideas for the subject of our tutorial package:
+
+1. Something to do with weather - pull current weather from weather API
+   Could get different cities.  Perhaps plot on a map? Complex; risk of
+   API changing. Potential for graphical output - would look good.
+2. Calculate the area / volume of shapes / solids.  Simple example, easy
+   for participants to extend. Rather dull?
+
+
